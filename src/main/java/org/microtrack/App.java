@@ -1,13 +1,13 @@
-package org.microtrack.apimockthreemicrotrack;
+package org.microtrack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiMockThreeMicrotrackApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiMockThreeMicrotrackApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package org.microtrack.apimockthreemicrotrack;
+package org.microtrack;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiMockThreeMicrotrackApplicationTests {
+class AppTests {
 
 	@Test
 	void contextLoads() {
